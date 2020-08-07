@@ -1,8 +1,5 @@
 # con-techt
 aplicação de divulgação de serviços de assistências técnicas
-
-
-CON-T-ECH
 -----------------
 PALETA DE CORES:
 - #247BA0
