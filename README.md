@@ -12,7 +12,7 @@ tela de acesso para ambos os usuarios - ok
 tela para criação de um serviço - ok
 
 tela para o consumidor listar os serviços desejados, selecionando 
-categoria exemplo:informatica, celular, eletrodomestico...
+categoria/região exemplo:informatica, celular, eletrodomestico...
 
 cadastro da prestadora de serviço deve conter: - OK
 - nome da prestadora
